@@ -1,0 +1,5 @@
+User-Agent: *
+
+Allow: /
+
+Sitemap: https://338slot.asdf.docs.ddo.sfa.atos.net/base/sitemap.xml
